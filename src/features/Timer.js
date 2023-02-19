@@ -22,7 +22,7 @@ export const Timer = ({ focusSubject, clearSubject, onTimerEnd }) => {
     useKeepAwake();
     const [isStarted, setIsStarted] = useState(false);
     const [progress, setProgress] = useState(1);
-    const [minutes, setMinutes] = useState(0.5)
+    const [minutes, setMinutes] = useState(0.1)
 
     const onEnd = () => {
         Vibration.vibrate(PATTERN);
