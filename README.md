@@ -2,9 +2,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/HugoFranc/FocusTime">
-  <img src="" alt="Logo" width="80" height="80">
+
   </a>
-![png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail](https://user-images.githubusercontent.com/55465856/219907771-d023344a-9dec-4097-ab29-e0f40f8c3be8.png)
+
 
   <h1 align="center"> FocusTime </h1>
 
